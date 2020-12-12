@@ -1,0 +1,13 @@
+* {
+  text-transform: uppercase;
+  font-family: oswald;
+}
+
+.promo_title hr {
+  max-width: 120px;
+}
+
+th {
+  border: 1px solid black;
+  padding: 0px;
+}

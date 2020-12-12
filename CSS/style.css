@@ -1,6 +1,7 @@
 * {
   text-transform: uppercase;
-  font-family: oswald;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
 }
 
 .promo_title hr {
